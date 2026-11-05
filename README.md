@@ -2,4 +2,9 @@
 
 # Hello to all the IBM folks
 
-# Hello to all the IBM folks
+## Participants
+
+- Manish
+- Anand
+- Vishwajith
+- Ganapathy
